@@ -19,7 +19,7 @@
       #:address       "3300 W Camelback Rd, Phoenix, AZ 85017"
       #:address-link  "https://goo.gl/maps/xgxWwQJCKsVx4yt37"
       #:price         130
-      ;#:discount      13
+      #:discount      13
       #:start-time    "10:30am"
       #:end-time      "12:00pm"
       #:meeting-dates (list "04/04/2020" "04/18/2020" "05/09/2020" "05/16/2020" "05/23/2020")
@@ -37,7 +37,7 @@
       #:address       "3300 W Camelback Rd, Phoenix, AZ 85017"
       #:address-link  "https://goo.gl/maps/xgxWwQJCKsVx4yt37"
       #:price         130
-     ;#:discount      13
+      #:discount      13
       #:start-time    "12:30pm"
       #:end-time      "2:00pm"
       #:meeting-dates (list "04/04/2020" "04/18/2020" "05/09/2020" "05/16/2020" "05/23/2020")
