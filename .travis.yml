@@ -30,8 +30,8 @@ before_install:
 
 install:
  - cd $TRAVIS_BUILD_DIR
- - raco pkg install --auto metacoders-dot-org-metacoders-dot-org-phoenix-lib/
- - raco pkg install --auto metacoders-dot-org-metacoders-dot-org-phoenix-site/
+ - raco pkg install --auto metacoders-dot-org-phoenix-lib/
+ - raco pkg install --auto metacoders-dot-org-phoenix-site/
  
 before_script:
 
@@ -39,7 +39,7 @@ before_script:
 # `raco pkg install --deps search-auto` to install any required
 # packages without it getting stuck on a confirmation prompt.
 script:
- - raco setup --no-docs --fail-fast metacoders-dot-org-metacoders-dot-org-phoenix-lib metacoders-dot-org-metacoders-dot-org-phoenix-site
+ - raco setup --no-docs --fail-fast metacoders-dot-org-phoenix-lib metacoders-dot-org-phoenix-site
 
 after_success:
  - echo "DONE!"
