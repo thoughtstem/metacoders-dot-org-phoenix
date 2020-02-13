@@ -454,7 +454,8 @@
                                                 #:full-day-time "9am - 4pm"
                                                 #:am-price "330"
                                                 #:pm-price "270"
-                                                #:full-day-price "544")
+                                                #:full-day-price "544"
+                                                #:lunch-info "Boxed lunches")
          )))
 
 (define (pages)
