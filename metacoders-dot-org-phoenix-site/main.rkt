@@ -287,7 +287,7 @@
         #:camp-time     "9:00am - 1:00pm"
         #:lunch-time    "12:00pm - 1:00pm"
         #:pickup-time   "1:00pm - 1:15pm"
-        #:meeting-dates (list "6/22/2020" "6/23/2020" "6/24/2020" "6/25/2020" "6/26/2020")
+        #:meeting-dates (list "6/29/2020" "6/30/2020" "7/1/2020" "7/2/2020" "7/3/2020")
         #:status         'open
         ))
 
@@ -306,7 +306,7 @@
         #:camp-time     "1:00pm - 4:00pm"
        ; #:lunch-time    "12:00pm - 1:00pm"
         #:pickup-time   "4:00pm - 4:15pm"
-        #:meeting-dates (list "6/22/2020" "6/23/2020" "6/24/2020" "6/25/2020" "6/26/2020")
+        #:meeting-dates (list "6/29/2020" "6/30/2020" "7/1/2020" "7/2/2020" "7/3/2020")
         #:status         'open
         ))
 
@@ -326,7 +326,7 @@
         #:camp-time     "9:00am - 1:00pm"
         #:lunch-time    "12:00pm - 1:00pm"
         #:pickup-time   "1:00pm - 1:15pm"
-        #:meeting-dates (list "6/22/2020" "6/23/2020" "6/24/2020" "6/25/2020" "6/26/2020")
+        #:meeting-dates (list "6/29/2020" "6/30/2020" "7/1/2020" "7/2/2020" "7/3/2020")
         #:status         'open
         ))
 
