@@ -29,7 +29,7 @@
 (define/provide-course weekly-class-k-2nd-spring 
   (course
       #:topic         "Awesome Animals!"
-      #:sku           "sku_tDc2Uev3SyuhiNcaah4Xw"
+      #:sku           "sku_3rtflwOqSg6CIS0s0UulCQ"
       #:video-path     k2-animal-mp4-path
       #:description   "MetaCoders’ novel approach to computer science education is backed by the latest scientific research that shows learning how to code is more like learning a foreign language than learning math. Therefore, we leverage the entire field of language acquisition so that our students are ready for a future where they’ll need to speak the languages of computers fluently. We also keep the emphasis on FUN, so throughout the course students will earn badges and prizes as they expand their knowledge of computer science. During this session of Coding Club, students will be designing video games featuring animals - they'll learn how to customize the colors of & heal their animal game characters, and also avoid enemies!"
       #:grade-range   "K - 2nd"
@@ -47,7 +47,7 @@
 (define/provide-course weekly-class-3rd-6th-spring
   (course
       #:topic         "Survival Video Game Design"
-      #:sku           "sku_1w8s8UG0Tr2Bm8poPT457A"
+      #:sku           "sku_WSpNbp31ReGvkL3Vei5dsg"
       #:video-path     survival-mp4-path
       #:description   "In our Winter Saturday class, students will design & code their very own 2D survival games. Students will learn how to build critical features that make survival games like Minecraft and Fortnite fun! Students will use a powerful, typed language to code features like health bars, day-night cycles, and crafting/recipe mechanics. At the end of this course, students will be able to share their survival games with friends and family."
       #:grade-range   "3rd - 6th"
